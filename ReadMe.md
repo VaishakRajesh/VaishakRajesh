@@ -7,7 +7,7 @@
 - 🧑‍💻 I'm a **Full Stack MERN Developer** (MongoDB, Express, React, Node.js)
 - ⚛️ Passionate about **building modern web & mobile apps** using **React** and **React Native**
 - 🔍 Constantly exploring new tech and improving coding skills
-- 🧠 I code in **C, C++, Java, Python, Ruby, Go**
+- 🧠 I code in ** C, C++, Java, Python, JavaScript, Go **
 - 🛠️ I love **Next.js** for full-stack apps and use **SQLite** for lightweight projects
 - 📱 I love crafting **cross-platform apps**
 
@@ -25,7 +25,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🌐 Frontend  
